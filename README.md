@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
