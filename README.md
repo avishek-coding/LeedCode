@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/avishek-coding/LeedCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/avishek-coding/LeedCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1816-truncate-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1816-truncate-sentence) |
+| [1991-find-the-middle-index-in-array](https://github.com/avishek-coding/LeedCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/avishek-coding/LeedCode/tree/master/0771-jewels-and-stones) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/avishek-coding/LeedCode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
