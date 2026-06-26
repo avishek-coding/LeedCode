@@ -1,21 +1,19 @@
 class Solution {
     public int findLucky(int[] arr) {
-       HashMap<Integer, Integer> map= new HashMap<>();
-       int ans=-1;
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-       for(int nums : arr){
-            map.put(nums, map.getOrDefault(nums, 0)+1);
-       }
+        for (int num : arr) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
 
-       for(int nums : arr){
-            int freq=map.get(nums);
+        int ans = -1;
 
-            if(nums==freq){
-                if(ans<nums){
-                    ans=nums;
-                }
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getKey().equals(entry.getValue())) {
+                ans = Math.max(ans, entry.getKey());
             }
-       }
+        }
+
         return ans;
     }
 }
