@@ -4,15 +4,13 @@ class Solution {
         int n=mat.length;
 
         for(int i=0; i<mat.length; i++){
-            for(int j=0; j<mat[i].length; j++){
-                if(i==j){
-                    sum+=mat[i][j];
-                }
-                if (i + j == n - 1 && i != j) {
-                    sum += mat[i][j];
-                }
-            }
+            sum+=mat[i][i];
+            sum+=mat[i][n-1-i];
         }
+
+        if (n % 2 == 1) {
+            sum -= mat[n / 2][n / 2];
+            }
         return sum;
     }
 }
