@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/avishek-coding/LeedCode/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/avishek-coding/LeedCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avishek-coding/LeedCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/avishek-coding/LeedCode/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1652-defuse-the-bomb](https://github.com/avishek-coding/LeedCode/tree/master/1652-defuse-the-bomb) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/avishek-coding/LeedCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/avishek-coding/LeedCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avishek-coding/LeedCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
