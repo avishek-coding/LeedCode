@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/avishek-coding/LeedCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/avishek-coding/LeedCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/avishek-coding/LeedCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/avishek-coding/LeedCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/avishek-coding/LeedCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/avishek-coding/LeedCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/avishek-coding/LeedCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
