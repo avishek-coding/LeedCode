@@ -14,7 +14,7 @@ class Solution {
         int count=0;
 
         for(String s: map1.keySet()){
-            if(map1.get(s)==1 && map2.getOrDefault(s,0)==1){
+            if(map1.getOrDefault(s,0)==1 && map2.getOrDefault(s,0)==1){
                 count++;
             }
         }
