@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1652-defuse-the-bomb](https://github.com/avishek-coding/LeedCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/avishek-coding/LeedCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/avishek-coding/LeedCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avishek-coding/LeedCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/avishek-coding/LeedCode/tree/master/0771-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/avishek-coding/LeedCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/avishek-coding/LeedCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Binary Search
