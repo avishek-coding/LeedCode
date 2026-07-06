@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/avishek-coding/LeedCode/tree/master/0344-reverse-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/avishek-coding/LeedCode/tree/master/2562-find-the-array-concatenation-value) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/avishek-coding/LeedCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/avishek-coding/LeedCode/tree/master/2562-find-the-array-concatenation-value) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/avishek-coding/LeedCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2562-find-the-array-concatenation-value](https://github.com/avishek-coding/LeedCode/tree/master/2562-find-the-array-concatenation-value) |
 ## Hash Table
 |  |
 | ------- |
