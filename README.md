@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1652-defuse-the-bomb](https://github.com/avishek-coding/LeedCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/avishek-coding/LeedCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/avishek-coding/LeedCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/avishek-coding/LeedCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/avishek-coding/LeedCode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/avishek-coding/LeedCode/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
