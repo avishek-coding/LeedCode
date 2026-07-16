@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avishek-coding/LeedCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/avishek-coding/LeedCode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avishek-coding/LeedCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avishek-coding/LeedCode/tree/master/2089-find-target-indices-after-sorting-array) |
