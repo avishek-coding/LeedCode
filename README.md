@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avishek-coding/LeedCode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/avishek-coding/LeedCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/avishek-coding/LeedCode/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/avishek-coding/LeedCode/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/avishek-coding/LeedCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2562-find-the-array-concatenation-value](https://github.com/avishek-coding/LeedCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/avishek-coding/LeedCode/tree/master/1652-defuse-the-bomb) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avishek-coding/LeedCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
