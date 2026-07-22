@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0849-maximize-distance-to-closest-person](https://github.com/avishek-coding/LeedCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0953-verifying-an-alien-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/avishek-coding/LeedCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
