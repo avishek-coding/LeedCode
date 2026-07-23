@@ -1,19 +1,27 @@
 class Solution {
     public int distinctAverages(int[] nums) {
-        
-        HashSet<Double> set = new HashSet<>();
-        Arrays.sort(nums);
+        int[] freq = new int[101];
 
-        int left=0; 
-        int right=nums.length-1;
-
-        while(left<right){
-
-            double avg = (nums[left]+nums[right])/2.0;
-            set.add(avg);
-            left++;
-            right--;
+        for (int num : nums) {
+            freq[num]++;
         }
+
+        HashSet<Integer> set = new HashSet<>();
+
+        int low = 0;
+        int high = 100;
+
+        while (true) {
+            while (low <= 100 && freq[low] == 0) low++;
+            while (high >= 0 && freq[high] == 0) high--;
+
+            if (low > high) break;
+
+            set.add(low + high);
+            freq[low]--;
+            freq[high]--;
+        }
+
         return set.size();
     }
 }
