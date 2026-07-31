@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0849-maximize-distance-to-closest-person](https://github.com/avishek-coding/LeedCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0953-verifying-an-alien-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/avishek-coding/LeedCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/avishek-coding/LeedCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/avishek-coding/LeedCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
 | [0771-jewels-and-stones](https://github.com/avishek-coding/LeedCode/tree/master/0771-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/avishek-coding/LeedCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
