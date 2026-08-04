@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/avishek-coding/LeedCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/avishek-coding/LeedCode/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3731-find-missing-elements](https://github.com/avishek-coding/LeedCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/avishek-coding/LeedCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2465-number-of-distinct-averages](https://github.com/avishek-coding/LeedCode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/avishek-coding/LeedCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/avishek-coding/LeedCode/tree/master/2465-number-of-distinct-averages) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avishek-coding/LeedCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avishek-coding/LeedCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/avishek-coding/LeedCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
