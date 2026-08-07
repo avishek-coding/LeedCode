@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avishek-coding/LeedCode/tree/master/0344-reverse-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/avishek-coding/LeedCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avishek-coding/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-number-of-distinct-averages](https://github.com/avishek-coding/LeedCode/tree/master/2465-number-of-distinct-averages) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/avishek-coding/LeedCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/avishek-coding/LeedCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/avishek-coding/LeedCode/tree/master/1672-richest-customer-wealth) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/avishek-coding/LeedCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/avishek-coding/LeedCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/avishek-coding/LeedCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avishek-coding/LeedCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
