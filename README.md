@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avishek-coding/LeedCode/tree/master/0344-reverse-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
@@ -226,8 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/avishek-coding/LeedCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/avishek-coding/LeedCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/avishek-coding/LeedCode/tree/master/0021-merge-two-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
