@@ -13,7 +13,8 @@ class Solution {
         if(head == null){
             return head;
         }
-        ListNode node=head;
+
+        ListNode node = head;
         while(head.next!= null){
             if(head.val == head.next.val){
                 head.next=head.next.next;
