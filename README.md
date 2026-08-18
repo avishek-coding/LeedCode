@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/avishek-coding/LeedCode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/avishek-coding/LeedCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/avishek-coding/LeedCode/tree/master/0258-add-digits) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avishek-coding/LeedCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/avishek-coding/LeedCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0024-swap-nodes-in-pairs) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/avishek-coding/LeedCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/avishek-coding/LeedCode/tree/master/0143-reorder-list) |
