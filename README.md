@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0876-middle-of-the-linked-list) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/avishek-coding/LeedCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/avishek-coding/LeedCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avishek-coding/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-number-of-distinct-averages](https://github.com/avishek-coding/LeedCode/tree/master/2465-number-of-distinct-averages) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/avishek-coding/LeedCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
