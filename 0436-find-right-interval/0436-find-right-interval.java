@@ -1,46 +1,23 @@
 class Solution {
-    public int[] findRightInterval(int[][] intervals) { 
-        int n=intervals.length;
-        int[] arr = new int[n];
+    public int[] findRightInterval(int[][] intervals) {
+        int n = intervals.length;
         int[] ans = new int[n];
 
-        for(int i=0; i<n; i++){
-            arr[i]=intervals[i][0];
-        }
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int i=0; i<n; i++){
-            map.put(arr[i],i);
-        }
-        Arrays.sort(arr);
-        for(int i=0; i<n; i++){
-            int val=BinarySearch(arr, intervals[i][1]);
-            if(val==-1){
-                ans[i]=-1;
-            }
-            else{
-                ans[i]=map.get(arr[val]);
-            }
-        }
-        return ans;
-    }
+        TreeMap<Integer, Integer> map = new TreeMap<>();
 
-    public int BinarySearch(int[] arr, int target){
-        int left=0;
-        int right=arr.length-1;
-        int ans=-1;
+       
+        for (int i = 0; i < n; i++) {
+            map.put(intervals[i][0], i);
+        }
 
-        while(left<=right){
-            int mid=left+(right-left)/2;
+        for (int i = 0; i < n; i++) {
+            
+            Integer key = map.ceilingKey(intervals[i][1]);
 
-            if(arr[mid]==target){
-                return mid;
-            }
-            else if(arr[mid]>target){
-                ans=mid;
-                right=mid-1;
-            }
-            else{
-                left=mid+1;
+            if (key == null) {
+                ans[i] = -1;
+            } else {
+                ans[i] = map.get(key);
             }
         }
 
