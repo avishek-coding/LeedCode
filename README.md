@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avishek-coding/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avishek-coding/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/avishek-coding/LeedCode/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/avishek-coding/LeedCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/avishek-coding/LeedCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/avishek-coding/LeedCode/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avishek-coding/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/avishek-coding/LeedCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/avishek-coding/LeedCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/avishek-coding/LeedCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
