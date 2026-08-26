@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/avishek-coding/LeedCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avishek-coding/LeedCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/avishek-coding/LeedCode/tree/master/1436-destination-city) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/avishek-coding/LeedCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/avishek-coding/LeedCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/avishek-coding/LeedCode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avishek-coding/LeedCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avishek-coding/LeedCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/avishek-coding/LeedCode/tree/master/1436-destination-city) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/avishek-coding/LeedCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/avishek-coding/LeedCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/avishek-coding/LeedCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/avishek-coding/LeedCode/tree/master/0371-sum-of-two-integers) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Matrix
 |  |
 | ------- |
