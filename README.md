@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avishek-coding/LeedCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/avishek-coding/LeedCode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/avishek-coding/LeedCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avishek-coding/LeedCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/avishek-coding/LeedCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/avishek-coding/LeedCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/avishek-coding/LeedCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/avishek-coding/LeedCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avishek-coding/LeedCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/avishek-coding/LeedCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
