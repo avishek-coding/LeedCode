@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avishek-coding/LeedCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/avishek-coding/LeedCode/tree/master/0344-reverse-string) |
 | [0720-longest-word-in-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0720-longest-word-in-dictionary) |
@@ -316,6 +317,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avishek-coding/LeedCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/avishek-coding/LeedCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avishek-coding/LeedCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
