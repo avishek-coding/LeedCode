@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0720-longest-word-in-dictionary) |
+| [0735-asteroid-collision](https://github.com/avishek-coding/LeedCode/tree/master/0735-asteroid-collision) |
 | [0849-maximize-distance-to-closest-person](https://github.com/avishek-coding/LeedCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0953-verifying-an-alien-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avishek-coding/LeedCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/avishek-coding/LeedCode/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/avishek-coding/LeedCode/tree/master/0735-asteroid-collision) |
 | [1389-create-target-array-in-the-given-order](https://github.com/avishek-coding/LeedCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/avishek-coding/LeedCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/avishek-coding/LeedCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/avishek-coding/LeedCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/avishek-coding/LeedCode/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
