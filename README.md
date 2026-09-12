@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avishek-coding/LeedCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0720-longest-word-in-dictionary) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/avishek-coding/LeedCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/avishek-coding/LeedCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/avishek-coding/LeedCode/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
@@ -347,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/avishek-coding/LeedCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
