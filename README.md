@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/avishek-coding/LeedCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avishek-coding/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/avishek-coding/LeedCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/avishek-coding/LeedCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/avishek-coding/LeedCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/avishek-coding/LeedCode/tree/master/0907-sum-of-subarray-minimums) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/avishek-coding/LeedCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
