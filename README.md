@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/avishek-coding/LeedCode/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/avishek-coding/LeedCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/avishek-coding/LeedCode/tree/master/0383-ransom-note) |
 | [0720-longest-word-in-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/avishek-coding/LeedCode/tree/master/0771-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/avishek-coding/LeedCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/avishek-coding/LeedCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/avishek-coding/LeedCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/avishek-coding/LeedCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avishek-coding/LeedCode/tree/master/0496-next-greater-element-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/avishek-coding/LeedCode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/avishek-coding/LeedCode/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
