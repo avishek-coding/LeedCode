@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/avishek-coding/LeedCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/avishek-coding/LeedCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/avishek-coding/LeedCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/avishek-coding/LeedCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/avishek-coding/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/avishek-coding/LeedCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/avishek-coding/LeedCode/tree/master/0496-next-greater-element-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avishek-coding/LeedCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/avishek-coding/LeedCode/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/avishek-coding/LeedCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/avishek-coding/LeedCode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/avishek-coding/LeedCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
