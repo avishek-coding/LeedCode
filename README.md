@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/avishek-coding/LeedCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/avishek-coding/LeedCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/avishek-coding/LeedCode/tree/master/0162-find-peak-element) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/avishek-coding/LeedCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Geometry
 |  |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
