@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avishek-coding/LeedCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/avishek-coding/LeedCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/avishek-coding/LeedCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2409-count-days-spent-together](https://github.com/avishek-coding/LeedCode/tree/master/2409-count-days-spent-together) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/avishek-coding/LeedCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/avishek-coding/LeedCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/avishek-coding/LeedCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/avishek-coding/LeedCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/avishek-coding/LeedCode/tree/master/2409-count-days-spent-together) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/avishek-coding/LeedCode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avishek-coding/LeedCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avishek-coding/LeedCode/tree/master/3536-maximum-product-of-two-digits) |
