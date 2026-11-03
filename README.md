@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/avishek-coding/LeedCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/avishek-coding/LeedCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/avishek-coding/LeedCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/avishek-coding/LeedCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/avishek-coding/LeedCode/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/avishek-coding/LeedCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Geometry
 |  |
