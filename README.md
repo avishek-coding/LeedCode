@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/avishek-coding/LeedCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/avishek-coding/LeedCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avishek-coding/LeedCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avishek-coding/LeedCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/avishek-coding/LeedCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/avishek-coding/LeedCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/avishek-coding/LeedCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/avishek-coding/LeedCode/tree/master/0436-find-right-interval) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/avishek-coding/LeedCode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -431,11 +435,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
