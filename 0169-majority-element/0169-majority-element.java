@@ -4,7 +4,11 @@ class Solution {
        int candidate = 0;
 
        for(int num : nums){
-            candidate=num;
+
+            if(count == 0){
+                 candidate=num;
+            }
+           
 
             if(num == candidate){
                 count++;
