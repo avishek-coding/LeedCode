@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/avishek-coding/LeedCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/avishek-coding/LeedCode/tree/master/0118-pascals-triangle) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/avishek-coding/LeedCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avishek-coding/LeedCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/avishek-coding/LeedCode/tree/master/0146-lru-cache) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/avishek-coding/LeedCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/avishek-coding/LeedCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avishek-coding/LeedCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/avishek-coding/LeedCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/avishek-coding/LeedCode/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
