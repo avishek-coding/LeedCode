@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/avishek-coding/LeedCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/avishek-coding/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/avishek-coding/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avishek-coding/LeedCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/avishek-coding/LeedCode/tree/master/0143-reorder-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/avishek-coding/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avishek-coding/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/avishek-coding/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/avishek-coding/LeedCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/avishek-coding/LeedCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/avishek-coding/LeedCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/avishek-coding/LeedCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/avishek-coding/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
