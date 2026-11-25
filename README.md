@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/avishek-coding/LeedCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avishek-coding/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/avishek-coding/LeedCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avishek-coding/LeedCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/avishek-coding/LeedCode/tree/master/0525-contiguous-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avishek-coding/LeedCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avishek-coding/LeedCode/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/avishek-coding/LeedCode/tree/master/0436-find-right-interval) |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avishek-coding/LeedCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/avishek-coding/LeedCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avishek-coding/LeedCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/avishek-coding/LeedCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/avishek-coding/LeedCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -473,4 +476,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/avishek-coding/LeedCode/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/avishek-coding/LeedCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
